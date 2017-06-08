@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 
 int main(void)
@@ -10,3 +11,10 @@ int main(void)
 
 	return 0;
 }
+1
+2
+3
+この行を追加しました！Ryomaより
+4
+5この行を編集しました。Ryomaより
+>>>>>>> f872871d389dec303209a927d224705834250c05
